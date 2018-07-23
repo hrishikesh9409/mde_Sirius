@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sampleEditor:Mindmap
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:sampleEditor="http://www.example.org/sampleEditor"
+    xsi:schemaLocation="http://www.example.org/sampleEditor sampleEditor.ecore">
+  <topics name="Topic 1"/>
+  <relations>
+    <source
+        name="TopicReference1"/>
+    <target
+        name="TopicReference2"/>
+  </relations>
+</sampleEditor:Mindmap>
